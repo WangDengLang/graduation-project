@@ -1,0 +1,13 @@
+..\..\output\bsp_sgp30.o: ..\..\User\sgp30\bsp_sgp30.c
+..\..\output\bsp_sgp30.o: ..\..\User\./sgp30/bsp_sgp30.h
+..\..\output\bsp_sgp30.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\bsp_sgp30.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\bsp_sgp30.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\bsp_sgp30.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\bsp_sgp30.o: ..\..\User\stm32f10x_conf.h
+..\..\output\bsp_sgp30.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\bsp_sgp30.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\bsp_sgp30.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\bsp_sgp30.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\bsp_sgp30.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\bsp_sgp30.o: ..\..\User\SysTick\bsp_SysTick.h
